@@ -1,5 +1,5 @@
-github-code-education
+Primeiro Push
 =====================
 
-git remote add origin endereço do seu diretório
+git remote add origin endereço do seu diretório<br>
 git push -u origin master
